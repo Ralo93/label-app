@@ -1,6 +1,6 @@
 My most recent project: A bias-free, user-based annotation software for clinical radio frequency data.
 
-This full-stack application is capable of preprocessing raw data from the database into images with different settings, annotation of the data and saving back to the database, as well as a sophisticated mechanism for securing annotation accuracy and multi-purpose labeling.
+This full-stack application is capable of preprocessing raw data from the database into images with different settings, annotation of the data and saving back to the database, as well as a mechanism for securing annotation accuracy and multi-purpose labeling.
 
 Used technologies: Python, MS SQL Server
 
